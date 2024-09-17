@@ -2,4 +2,7 @@
 
 This is a new line
 This is another line
-This is from GitHub
+
+//git add .
+//git commit -m"another commit"
+//git push
